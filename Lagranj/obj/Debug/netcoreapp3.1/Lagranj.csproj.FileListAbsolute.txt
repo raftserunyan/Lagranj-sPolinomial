@@ -1,0 +1,13 @@
+C:\Users\Rafik\source\repos\Lagranj\Lagranj\bin\Debug\netcoreapp3.1\Lagranj.exe
+C:\Users\Rafik\source\repos\Lagranj\Lagranj\bin\Debug\netcoreapp3.1\Lagranj.deps.json
+C:\Users\Rafik\source\repos\Lagranj\Lagranj\bin\Debug\netcoreapp3.1\Lagranj.runtimeconfig.json
+C:\Users\Rafik\source\repos\Lagranj\Lagranj\bin\Debug\netcoreapp3.1\Lagranj.runtimeconfig.dev.json
+C:\Users\Rafik\source\repos\Lagranj\Lagranj\bin\Debug\netcoreapp3.1\Lagranj.dll
+C:\Users\Rafik\source\repos\Lagranj\Lagranj\bin\Debug\netcoreapp3.1\Lagranj.pdb
+C:\Users\Rafik\source\repos\Lagranj\Lagranj\obj\Debug\netcoreapp3.1\Lagranj.csprojAssemblyReference.cache
+C:\Users\Rafik\source\repos\Lagranj\Lagranj\obj\Debug\netcoreapp3.1\Lagranj.AssemblyInfoInputs.cache
+C:\Users\Rafik\source\repos\Lagranj\Lagranj\obj\Debug\netcoreapp3.1\Lagranj.AssemblyInfo.cs
+C:\Users\Rafik\source\repos\Lagranj\Lagranj\obj\Debug\netcoreapp3.1\Lagranj.csproj.CoreCompileInputs.cache
+C:\Users\Rafik\source\repos\Lagranj\Lagranj\obj\Debug\netcoreapp3.1\Lagranj.dll
+C:\Users\Rafik\source\repos\Lagranj\Lagranj\obj\Debug\netcoreapp3.1\Lagranj.pdb
+C:\Users\Rafik\source\repos\Lagranj\Lagranj\obj\Debug\netcoreapp3.1\Lagranj.genruntimeconfig.cache
